@@ -1,6 +1,6 @@
 ## Mathsoc Website
 
-A remake of the MathSoc website (mathsoc.uwaterloo.ca)
+A remake of the MathSoc website ➡ (https://mathsoc.uwaterloo.ca/)
 
 To setup:
 
@@ -13,3 +13,4 @@ To setup:
 
 To run:
 - run `docker-compose up`
+      
